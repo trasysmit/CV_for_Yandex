@@ -5,7 +5,7 @@ from io import open
 import time
 
 def input_method():
-	"""Метод для считывания массива из файла или его автоматичекой генерации""" 
+	"""Метод для считывания массива из файла""" 
 	arr = []
 	f = open('c:/input.txt', 'r', encoding='utf-8')
 	
