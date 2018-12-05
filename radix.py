@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Поразрядная сортировка
 
 from io import open
 import time
@@ -29,7 +30,7 @@ def output_method(arr):
 
 		
 def sort(arr):
-	"""Метод, выполняющий сортировку пузырьком"""
+	"""Метод, выполняющий поразрядную сортировку"""
 	
 	RADIX = 10000
 	maxLength = False
