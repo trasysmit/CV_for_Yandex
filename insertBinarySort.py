@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Сортировка бинарными вставками
 
 from io import open
 import time
