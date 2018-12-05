@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Сортировка вставками
 
 from io import open
 import time
