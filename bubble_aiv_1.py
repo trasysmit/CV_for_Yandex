@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Сортировка пузырьком с условием Айверсона 1
 
 from io import open
 import time
